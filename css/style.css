@@ -38,14 +38,7 @@ body {
 }
 
 body {
-    background-image: url("https://i.pinimg.com/originals/a6/66/c0/a666c011c80315ad3c3a49b8e7d2ba06.gifb");
-    background-size: cover;
-    height: 100vh;
-    padding:0;
-    margin:0;
-
-}
-
+ background-image: url("https://i.pinimg.com/originals/a6/66/c0/a666c011c80315ad3c3a49b8e7d2ba06.gifb")background-repeat:repeat;}
 }
 
 .button>button {
